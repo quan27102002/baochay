@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "530055740748",
+    "firebase_url": "https://ptit-fire-default-rtdb.firebaseio.com",
+    "project_id": "ptit-fire",
+    "storage_bucket": "ptit-fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530055740748:android:68843ef802956db51be3e9",
+        "android_client_info": {
+          "package_name": "com.example.ptit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYaOuFZfReKdj5KVrLdjacJZx2XttaG6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
