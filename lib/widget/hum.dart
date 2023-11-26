@@ -65,7 +65,7 @@ class _wigetWetState extends State<wigetWet> {
       builder: (BuildContext context) {
         return AlertDialog(
           title: const Text('Thông báo'),
-          content: const Text('Phát hiện rò rỉ khí gas!!'),
+          content: const Text('Phát hiện có cháy!!!'),
           actions: [
             TextButton(
               child: const Text('Đóng'),
